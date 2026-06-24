@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ios-techlabs-library",
-            url: "https://github.com/thyadang-techlabs/iOS-techlabs-library-release/releases/download/1.1.0/ios_techlabs_library.xcframework.zip",
-            checksum: "cf1cb12e5ad2af73ec561321971d650ed93159b3f291408b5be599296002d87c"
+            url: "https://github.com/thyadang-techlabs/iOS-techlabs-library-release/releases/download/2.1.3/ios_techlabs_library.xcframework.zip",
+            checksum: "624e8750ac3b0ffaad7619d5c28d4e43e91c17982a5ba4a90a115a376f3f4048"
         ),
     ]
 )
