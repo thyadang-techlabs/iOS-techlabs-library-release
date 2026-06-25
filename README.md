@@ -20,8 +20,7 @@ Techlabs iOS 공용 라이브러리 (XCFramework 배포 버전)
 ```swift
 dependencies: [
     .package(
-        url: "https://github.com/thyadang-techlabs/iOS-techlabs-library-release",
-        from: "1.0.0"
+        url: "https://github.com/thyadang-techlabs/iOS-techlabs-library-release"
     )
 ],
 targets: [
